@@ -21,11 +21,13 @@ The first phase involves utilizing GitHub Codespaces as a proof of concept to in
 
 ## Objective:
 
-This proof of concept (POC) aims to evaluate the potential of the Llava-llama3 model in identifying and analyzing data types within a small sample of the SETI dataset. Specifically, the study seeks to determine the model's ability to accurately identify the type of data and provide detailed information about the DriftRate. The preliminary results are promising, indicating that the model successfully identified and formulated the DriftRate, showcasing its potential for advanced data analysis in SETI research.
+This POC aims to evaluate the potential of the Llava-llama3 model in identifying and analyzing data types within a small sample of the SETI dataset. Specifically, the study seeks to determine the model's ability to accurately identify the type of data and provide detailed information about the DriftRate. The preliminary results are promising, indicating that the model successfully identified and formulated the DriftRate, showcasing its potential for advanced data analysis in SETI research.
 
 - Prompt #1: Identify the area of research to which this dataset belongs. 
 
 ![alt text](image.png)
+
+![alt text](image-2.png)
 
 
 - Prompt #2: Analyze the DriftRate of the above dataset.
@@ -33,4 +35,4 @@ This proof of concept (POC) aims to evaluate the potential of the Llava-llama3 m
 ![alt text](image-1.png)
 
 
-_Note: This POC was executed using GitHub Codespaces with 12 cores. Using a faster instance with a GPU would be more effective._
+_Note: This POC was executed using GitHub Codespaces with 12 cores. Using a faster instance with GPU would be more effective._
