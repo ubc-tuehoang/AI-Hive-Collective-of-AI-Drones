@@ -55,11 +55,13 @@ CMD [ "echo", "Successfully installed!" ]
 #> docker build -t drone_ai .
 #> docker run -it drone_ai /bin/bash
 #> ollama serve &
-###<press enter>
+
+### WAIT for about 10 seconds before <press enter>
 #> ollama list
+#> <should be empty>
 
-###<to use Microsoft PHI3:medium>
-#> ollama run phi3:medium --verbose
+### PULL model: llava-llama3
+#> ollama pull llava-llama3
 
-###<to use deepseek-coder:33b>
-#> ollama run deepseek-coder:33b --verbose
+#> ollama run llava-llama3 --verbose
+

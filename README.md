@@ -18,3 +18,11 @@
 
 The first phase involves utilizing GitHub Codespaces as a proof of concept to initiate the initial AI drone. This AI drone will establish connectivity with the main data stream and transition into a stateful machine. This statefulness will empower it to ingest and process data, thereby integrating seamlessly into the collective of AI experts dedicated to analyzing and processing this unique data stream. Additionally, it will feature bidirectional data feed to the central data stream, allowing its findings to be consumed by other connected AI drones, thereby enhancing their analysis and exploration capabilities.
 
+
+## Objective:
+
+This POC aims to evaluate the possibility of the Llava-llama3 model in identifying and analyzing data types within a small sample of the SETI dataset. Specifically, I seek to determine the model's capability in accurately identifying the type of data and providing detailed information about the DriftRate. The preliminary results are promising, indicating that the model successfully identified and formulated the DriftRate, showcasing its potential for advanced data analysis in SETI research.
+
+![alt text](image.png)
+
+![alt text](image-1.png)
