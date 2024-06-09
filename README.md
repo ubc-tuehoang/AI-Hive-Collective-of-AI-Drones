@@ -35,4 +35,4 @@ This POC aims to evaluate the potential of the Llava-llama3 model in identifying
 ![alt text](image-1.png)
 
 
-_Note: This POC was executed using GitHub Codespaces with 12 cores. Using a faster instance with GPU would be more effective._
+_Note: This POC was executed using GitHub Codespaces with 16 cores. Using a faster instance with GPU would be more effective._
