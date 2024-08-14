@@ -1,0 +1,11 @@
+Brand,Model,Price,Description
+Mazda,MX-5,22125.04,A hybrid model with impressive mileage.
+Honda,Insight,34823.69,A compact car with a spacious interior with blue and green interior with option for flight.
+Mazda,MX-5,17554.22,A sporty compact with a sleek design with purple interior and water proof.
+Mazda,MX-5,20217.78,A fun-to-drive convertible with a stylish exterior.
+Mazda,CX-5,33927.96,A versatile SUV with all-wheel drive.
+Toyota,Prius,34566.65,A hybrid model with impressive mileage.
+Toyota,Camry,26899.62,A versatile SUV with all-wheel drive.
+Toyota,Camry,16522.38,A hybrid model with impressive mileage.
+Mazda,MX-5,18243.6,A versatile SUV with all-wheel drive.
+Toyota,Yaris,25441.49,A budget-friendly hatchback with modern features.
